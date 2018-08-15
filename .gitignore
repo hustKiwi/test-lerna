@@ -1,0 +1,14 @@
+# General rules, which are originally copied from
+# https://github.com/facebook/create-react-app/blob/next/.gitignore
+.idea/
+.vscode/
+node_modules/
+build
+.DS_Store
+lerna-debug.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/.changelog
+
+# Custom
