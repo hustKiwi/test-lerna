@@ -1,6 +1,6 @@
 {
   "name": "@accordo-ipifny/module-1",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@accordo-ipifny/module-2": "^0.0.3"
+    "@accordo-ipifny/module-2": "^0.0.4"
   }
 }
