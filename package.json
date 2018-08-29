@@ -1,5 +1,6 @@
 {
   "name": "@accordo-ipifny/micro-frontends",
+  "version": "0.9.0",
   "workspaces": [
     "packages/module-1",
     "packages/module-2"
