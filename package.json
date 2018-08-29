@@ -1,6 +1,9 @@
 {
   "name": "@accordo-ipifny/micro-frontends",
-  "workspaces": ["packages/module-1", "packages/module-2"],
+  "workspaces": [
+    "packages/module-1",
+    "packages/module-2"
+  ],
   "scripts": {
     "publish": "lerna version"
   },
